@@ -9,7 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>minor change to check in the git working or not</p>
       </header>
-      <Sidebar/>
+      <div>
+        <Sidebar />
+      </div>
     </div>
   );
 }
