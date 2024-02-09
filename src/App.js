@@ -6,8 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>minor change to check in the git working or not</p>
+        <img src={logo} className="App-logo" alt="logo" /> 
       </header>
       <div>
         <Sidebar />
